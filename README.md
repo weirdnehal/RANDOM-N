@@ -27,7 +27,7 @@
 
 • pip install rich
 
-• rm -rf NEHAL 
+• rm -rf RANDOM-N
 
 • git clone https://github.com/weirdnehal/RANDOM-N.git
 
